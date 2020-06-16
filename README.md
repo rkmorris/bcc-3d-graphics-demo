@@ -13,7 +13,8 @@ Screenshot:
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_2.png "Screenshot")
 
 References:
-[Computer Graphics: Principles and Practice, Third Edition](https://www.amazon.co.uk/Computer-Graphics-Principles-Practice-Practices/dp/0321399528)
+1. [Computer Graphics: Principles and Practice, Third Edition](https://www.amazon.co.uk/Computer-Graphics-Principles-Practice-Practices/dp/0321399528)
 
+License:
 This repository uses [APACHE LICENSE, VERSION 2.0](https://www.apache.org/licenses/LICENSE-2.0). Feel
 free to download, modify, and redistribute but make sure you link this repo along with yours.
