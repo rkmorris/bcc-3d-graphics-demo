@@ -1,7 +1,7 @@
 Simple 3D graphics demonstration program
 
-Written from scratch in 1993/1994 by rkmorris using Borland C++ 3.1 on MS-DOS. Makes use
-of the Borland Graphics Interface (BGI) using EGA/VGA graphics drivers.
+Written from scratch in 1993/1994 by rkmorris using [Borland C++ 3.1](https://en.wikipedia.org/wiki/Borland_C%2B%2B) on [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS). Makes use
+of the Borland Graphics Interface ([BGI](https://en.wikipedia.org/wiki/Borland_Graphics_Interface)) using EGA/VGA graphics drivers.
 
 Build instructions in [3d.c](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/3D.C).
 
