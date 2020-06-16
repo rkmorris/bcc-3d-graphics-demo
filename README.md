@@ -10,7 +10,7 @@ Features:
 * Hidden surface removal
 * Implements facet shading
 * Perspective handling (commented out in this example)
-* Easily portable to other platforms (low dependency on graphic devices)
+* Easily portable to other platforms (low dependency on graphics devices)
 
 Screenshot:
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_2.png "Screenshot")
