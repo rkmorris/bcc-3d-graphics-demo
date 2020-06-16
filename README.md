@@ -10,6 +10,7 @@ Features:
 * Hidden surface removal
 * Implements facet shading
 * Perspective handling (commented out in this example)
+* Two choices of models (cube/wedge)
 * Easily portable to other platforms (low dependency on graphics devices)
 
 Screenshot:
