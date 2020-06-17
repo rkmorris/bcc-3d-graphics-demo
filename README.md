@@ -11,7 +11,7 @@ Features:
 * Implements facet shading
 * Perspective handling (commented out in this example)
 * Choice of two models (cube/wedge)
-* Easily portable to other platforms (low dependency on graphics devices)
+* Easily portable to other platforms (low dependency on graphics device)
 
 Screenshot:
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_2.png "Screenshot")
