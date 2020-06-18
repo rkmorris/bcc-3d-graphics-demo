@@ -17,9 +17,7 @@ Screenshots:
 &nbsp;
 
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_1.png "Screenshot #1")
-
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_2.png "Screenshot #2")
-
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_3.png "Screenshot #3")
 
 References:
