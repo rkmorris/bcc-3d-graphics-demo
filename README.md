@@ -11,7 +11,7 @@ Features:
 * Implements facet shading
 * Perspective handling (commented out in this example)
 * Choice of two models
-* Easily portable to other platforms (low dependency on graphic capabilities)
+* Easily portable to other platforms (low dependency on graphical capabilities)
 
 Screenshots:
 &nbsp;
