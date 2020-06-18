@@ -12,8 +12,11 @@ Features:
 * Perspective handling (commented out in this example)
 * Choice of two models (cube/wedge)
 * Easily portable to other platforms (low dependency on graphics device)
+&nbsp;
 
 Screenshots:
+&nbsp;
+
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_1.png "Screenshot #1")
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_2.png "Screenshot #2")
 ![alt text](https://github.com/rkmorris/bcc-3d-graphics-demo/blob/master/wedge_3.png "Screenshot #3")
